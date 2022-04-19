@@ -13,7 +13,7 @@ function preload()
 {
     starImg = loadImage("images/star.png");
 	bgImg = loadImage("images/starNight.png");
-    img = loadAnimation ("images/fairyimage1.png", "images/fairyimage2.png");
+    img = loadAnimation ("images/fairyImage1.png", "images/fairyImage2.png");
 
     som = loadSound ("sound/JoyMusic.mp3");
     //carregar animação de fada 
